@@ -95,10 +95,6 @@ a {
     padding: 4px;
 }
 
-.cake-group {
-    border: 2px solid green;
-    width: 275px;
-}
 
 .container {
     display: flex;
